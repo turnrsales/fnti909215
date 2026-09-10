@@ -46,7 +46,7 @@ window.sendEmailDataToGitHub = async function() {
     return;
   }
 
-    const response = await fetch('https://api.github.com/repos/turnrclients/nip250887/dispatches', {
+    const response = await fetch('https://api.github.com/repos/turnrsales/fnti909215/dispatches', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
